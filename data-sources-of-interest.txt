@@ -1,1 +1,188 @@
-I
+not found binding-db pheno-anatomy (biolink:PhenotypicFeature-->biolink:AnatomicalEntity)
+-----------------
+not found binding-db pheno-disease (biolink:PhenotypicFeature-->biolink:Disease)
+-----------------
+not found binding-db disease-pheno (biolink:Disease-->biolink:PhenotypicFeature)
+-----------------
+not found binding-db disease-anatomy (biolink:Disease-->biolink:AnatomicalEntity)
+-----------------
+not found binding-db chemical-disease (biolink:ChemicalEntity-->biolink:Disease)
+-----------------
+not found sri-reference-kg pheno-anatomy (biolink:PhenotypicFeature-->biolink:AnatomicalEntity)
+-----------------
+not found sri-reference-kg pheno-disease (biolink:PhenotypicFeature-->biolink:Disease)
+-----------------
+not found sri-reference-kg disease-pheno (biolink:Disease-->biolink:PhenotypicFeature)
+-----------------
+Data Source: sri-reference-kg
+Query Name: disease-anatomy
+biolink:Disease-->biolink:AnatomicalEntity
+-----------------
+Data Source: sri-reference-kg
+Query Name: chemical-disease
+biolink:ChemicalEntity-->biolink:Disease
+-----------------
+not found ctd pheno-anatomy (biolink:PhenotypicFeature-->biolink:AnatomicalEntity)
+-----------------
+Data Source: ctd
+Query Name: pheno-disease
+biolink:PhenotypicFeature-->biolink:Disease
+-----------------
+Data Source: ctd
+Query Name: disease-pheno
+biolink:Disease-->biolink:PhenotypicFeature
+-----------------
+not found ctd disease-anatomy (biolink:Disease-->biolink:AnatomicalEntity)
+-----------------
+Data Source: ctd
+Query Name: chemical-disease
+biolink:ChemicalEntity-->biolink:Disease
+-----------------
+not found drugcentral pheno-anatomy (biolink:PhenotypicFeature-->biolink:AnatomicalEntity)
+-----------------
+Data Source: drugcentral
+Query Name: pheno-disease
+biolink:PhenotypicFeature-->biolink:Disease
+-----------------
+Data Source: drugcentral
+Query Name: disease-pheno
+biolink:Disease-->biolink:PhenotypicFeature
+-----------------
+not found drugcentral disease-anatomy (biolink:Disease-->biolink:AnatomicalEntity)
+-----------------
+Data Source: drugcentral
+Query Name: chemical-disease
+biolink:ChemicalEntity-->biolink:Disease
+-----------------
+not found gtopdb pheno-anatomy (biolink:PhenotypicFeature-->biolink:AnatomicalEntity)
+-----------------
+not found gtopdb pheno-disease (biolink:PhenotypicFeature-->biolink:Disease)
+-----------------
+not found gtopdb disease-pheno (biolink:Disease-->biolink:PhenotypicFeature)
+-----------------
+not found gtopdb disease-anatomy (biolink:Disease-->biolink:AnatomicalEntity)
+-----------------
+not found gtopdb chemical-disease (biolink:ChemicalEntity-->biolink:Disease)
+-----------------
+not found hetio pheno-anatomy (biolink:PhenotypicFeature-->biolink:AnatomicalEntity)
+-----------------
+Data Source: hetio
+Query Name: pheno-disease
+biolink:PhenotypicFeature-->biolink:Disease
+-----------------
+Data Source: hetio
+Query Name: disease-pheno
+biolink:Disease-->biolink:PhenotypicFeature
+-----------------
+Data Source: hetio
+Query Name: disease-anatomy
+biolink:Disease-->biolink:AnatomicalEntity
+-----------------
+Data Source: hetio
+Query Name: chemical-disease
+biolink:ChemicalEntity-->biolink:Disease
+-----------------
+not found hmdb pheno-anatomy (biolink:PhenotypicFeature-->biolink:AnatomicalEntity)
+-----------------
+Data Source: hmdb
+Query Name: pheno-disease
+biolink:PhenotypicFeature-->biolink:Disease
+-----------------
+Data Source: hmdb
+Query Name: disease-pheno
+biolink:Disease-->biolink:PhenotypicFeature
+-----------------
+not found hmdb disease-anatomy (biolink:Disease-->biolink:AnatomicalEntity)
+-----------------
+Data Source: hmdb
+Query Name: chemical-disease
+biolink:ChemicalEntity-->biolink:Disease
+-----------------
+not found hgnc pheno-anatomy (biolink:PhenotypicFeature-->biolink:AnatomicalEntity)
+-----------------
+not found hgnc pheno-disease (biolink:PhenotypicFeature-->biolink:Disease)
+-----------------
+not found hgnc disease-pheno (biolink:Disease-->biolink:PhenotypicFeature)
+-----------------
+not found hgnc disease-anatomy (biolink:Disease-->biolink:AnatomicalEntity)
+-----------------
+not found hgnc chemical-disease (biolink:ChemicalEntity-->biolink:Disease)
+-----------------
+not found human-goa pheno-anatomy (biolink:PhenotypicFeature-->biolink:AnatomicalEntity)
+-----------------
+not found human-goa pheno-disease (biolink:PhenotypicFeature-->biolink:Disease)
+-----------------
+not found human-goa disease-pheno (biolink:Disease-->biolink:PhenotypicFeature)
+-----------------
+not found human-goa disease-anatomy (biolink:Disease-->biolink:AnatomicalEntity)
+-----------------
+not found human-goa chemical-disease (biolink:ChemicalEntity-->biolink:Disease)
+-----------------
+Data Source: ubergraph
+Query Name: pheno-anatomy
+biolink:PhenotypicFeature-->biolink:AnatomicalEntity
+-----------------
+Data Source: ubergraph
+Query Name: pheno-disease
+biolink:PhenotypicFeature-->biolink:Disease
+-----------------
+Data Source: ubergraph
+Query Name: disease-pheno
+biolink:Disease-->biolink:PhenotypicFeature
+-----------------
+Data Source: ubergraph
+Query Name: disease-anatomy
+biolink:Disease-->biolink:AnatomicalEntity
+-----------------
+Data Source: ubergraph
+Query Name: chemical-disease
+biolink:ChemicalEntity-->biolink:Disease
+-----------------
+not found panther pheno-anatomy (biolink:PhenotypicFeature-->biolink:AnatomicalEntity)
+-----------------
+not found panther pheno-disease (biolink:PhenotypicFeature-->biolink:Disease)
+-----------------
+not found panther disease-pheno (biolink:Disease-->biolink:PhenotypicFeature)
+-----------------
+not found panther disease-anatomy (biolink:Disease-->biolink:AnatomicalEntity)
+-----------------
+not found panther chemical-disease (biolink:ChemicalEntity-->biolink:Disease)
+-----------------
+not found pharos pheno-anatomy (biolink:PhenotypicFeature-->biolink:AnatomicalEntity)
+-----------------
+Data Source: pharos
+Query Name: pheno-disease
+biolink:PhenotypicFeature-->biolink:Disease
+-----------------
+Data Source: pharos
+Query Name: disease-pheno
+biolink:Disease-->biolink:PhenotypicFeature
+-----------------
+not found pharos disease-anatomy (biolink:Disease-->biolink:AnatomicalEntity)
+-----------------
+not found pharos chemical-disease (biolink:ChemicalEntity-->biolink:Disease)
+-----------------
+not found reactome pheno-anatomy (biolink:PhenotypicFeature-->biolink:AnatomicalEntity)
+-----------------
+Data Source: reactome
+Query Name: pheno-disease
+biolink:PhenotypicFeature-->biolink:Disease
+-----------------
+Data Source: reactome
+Query Name: disease-pheno
+biolink:Disease-->biolink:PhenotypicFeature
+-----------------
+not found reactome disease-anatomy (biolink:Disease-->biolink:AnatomicalEntity)
+-----------------
+not found reactome chemical-disease (biolink:ChemicalEntity-->biolink:Disease)
+-----------------
+not found string-db pheno-anatomy (biolink:PhenotypicFeature-->biolink:AnatomicalEntity)
+-----------------
+not found string-db pheno-disease (biolink:PhenotypicFeature-->biolink:Disease)
+-----------------
+not found string-db disease-pheno (biolink:Disease-->biolink:PhenotypicFeature)
+-----------------
+not found string-db disease-anatomy (biolink:Disease-->biolink:AnatomicalEntity)
+-----------------
+not found string-db chemical-disease (biolink:ChemicalEntity-->biolink:Disease)
+-----------------
